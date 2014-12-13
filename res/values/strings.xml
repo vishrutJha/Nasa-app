@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">nasa-app</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">This app will change the world</string>
     <string name="action_settings">Settings</string>
 
 </resources>
